@@ -5,7 +5,7 @@
 width="350">  
 </p>
 <p align="center">
-  <img src="https://github.com/avt1vka/.github/blob/main/applikuha_logo-color-white#gh-dark-mode-only" width="350">
+  <img src="https://github.com/avt1vka/.github/blob/main/applikuha_logo-color-white.svg#gh-dark-mode-only" width="350">
 </p>
 
 <!--
