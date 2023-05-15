@@ -1,12 +1,11 @@
-<svg width="1024" height="512" viewBox="0 0 732 348" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M730.85 1.28362H0.796753V346.947H730.85V1.28362Z" fill=""/>
-    <path d="M167.954 240.878C204.571 240.878 234.257 211.141 234.257 174.459C234.257 137.777 204.571 108.04 167.954 108.04C131.335 108.04 101.65 137.777 101.65 174.459C101.65 211.141 131.335 240.878 167.954 240.878Z"
-          stroke="#BE264C" stroke-width="9" stroke-miterlimit="11"/>
-    <path d="M365.482 241.121C402.099 241.121 431.785 211.383 431.785 174.702C431.785 138.02 402.099 108.283 365.482 108.283C328.863 108.283 299.178 138.02 299.178 174.702C299.178 211.383 328.863 241.121 365.482 241.121Z"
-          fill="white" stroke="white" stroke-width="11" stroke-miterlimit="11"/>
-    <path d="M541.408 241.121C578.025 241.121 607.711 211.383 607.711 174.702C607.711 138.02 578.025 108.283 541.408 108.283C504.789 108.283 475.104 138.02 475.104 174.702C475.104 211.383 504.789 241.121 541.408 241.121Z"
-          fill="white" stroke="white" stroke-width="11" stroke-miterlimit="11"/>
-    <path d="M256.187 104.654V244.448" stroke="#BE264C" stroke-width="11" stroke-miterlimit="11"/>
-    <path d="M277.875 73.8018V274.658" stroke="white" stroke-width="11" stroke-miterlimit="11"/>
-    <path d="M453.117 73.6732V274.53" stroke="white" stroke-width="11" stroke-miterlimit="11"/>
+<svg width="1024" height="512" viewBox="0 0 1024 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M252.001 363.728C307.227 363.728 352 318.956 352 263.728C352 208.5 307.227 163.728 252.001 163.728C196.771 163.728 152 208.5 152 263.728C152 318.956 196.771 363.728 252.001 363.728Z"
+          stroke="#BE264C" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M562.001 364C617.227 364 662 319.451 662 264.5C662 209.548 617.227 165 562.001 165C506.771 165 462 209.548 462 264.5C462 319.451 506.771 364 562.001 364Z"
+          fill="#FEFFFF" stroke="#FEFFFF" stroke-width="15.388" stroke-miterlimit="13"/>
+    <path d="M842.001 364C897.227 364 942 319.227 942 264C942 208.772 897.227 164 842.001 164C786.771 164 742 208.772 742 264C742 319.227 786.771 364 842.001 364Z"
+          stroke="#FEFFFF" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M392 164V364" stroke="#BE264C" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M422 134V394" stroke="#FEFFFF" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M702 134V394" stroke="#FEFFFF" stroke-width="13" stroke-miterlimit="13"/>
 </svg>
