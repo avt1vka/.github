@@ -1,12 +1,12 @@
 <svg width="1024" height="512" viewBox="0 0 732 348" fill="none" xmlns="http://www.w3.org/2000/svg">
   <path d="M730.85 1.28362H0.796753V346.947H730.85V1.28362Z" fill=""/>
   <path d="M167.954 240.878C204.571 240.878 234.257 211.141 234.257 174.459C234.257 137.777 204.571 108.04 167.954 108.04C131.335 108.04 101.65 137.777 101.65 174.459C101.65 211.141 131.335 240.878 167.954 240.878Z"
-        stroke="black" stroke-width="11" stroke-miterlimit="11"/>
+        stroke="#BE264C" stroke-width="11" stroke-miterlimit="11"/>
   <path d="M365.482 241.121C402.099 241.121 431.785 211.383 431.785 174.702C431.785 138.02 402.099 108.283 365.482 108.283C328.863 108.283 299.178 138.02 299.178 174.702C299.178 211.383 328.863 241.121 365.482 241.121Z"
-        fill="#BE264C" stroke="#BE264C" stroke-width="11" stroke-miterlimit="11"/>
+        fill="black" stroke="black" stroke-width="11" stroke-miterlimit="11"/>
   <path d="M541.408 241.121C578.025 241.121 607.711 211.383 607.711 174.702C607.711 138.02 578.025 108.283 541.408 108.283C504.789 108.283 475.104 138.02 475.104 174.702C475.104 211.383 504.789 241.121 541.408 241.121Z"
-        fill="#BE264C" stroke="#BE264C" stroke-width="11" stroke-miterlimit="11"/>
-  <path d="M256.187 104.654V244.448" stroke="black" stroke-width="11" stroke-miterlimit="11"/>
-  <path d="M277.875 73.8018V274.658" stroke="#BE264C" stroke-width="11" stroke-miterlimit="11"/>
-  <path d="M453.117 73.6732V274.53" stroke="#BE264C" stroke-width="11" stroke-miterlimit="11"/>
+        fill="black" stroke="black" stroke-width="11" stroke-miterlimit="11"/>
+  <path d="M256.187 104.654V244.448" stroke="#BE264C" stroke-width="11" stroke-miterlimit="11"/>
+  <path d="M277.875 73.8018V274.658" stroke="black" stroke-width="11" stroke-miterlimit="11"/>
+  <path d="M453.117 73.6732V274.53" stroke="black" stroke-width="11" stroke-miterlimit="11"/>
 </svg>
