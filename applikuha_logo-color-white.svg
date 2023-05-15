@@ -1,11 +1,11 @@
 <svg width="1024" height="512" viewBox="0 0 1024 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M252.001 363.728C307.227 363.728 352 318.956 352 263.728C352 208.5 307.227 163.728 252.001 163.728C196.771 163.728 152 208.5 152 263.728C152 318.956 196.771 363.728 252.001 363.728Z"
+    <path d="M222.001 363.728C277.227 363.728 322 318.956 322 263.728C322 208.5 277.227 163.728 222.001 163.728C166.771 163.728 122 208.5 122 263.728C122 318.956 166.771 363.728 222.001 363.728Z"
           stroke="#BE264C" stroke-width="13" stroke-miterlimit="13"/>
-    <path d="M562.001 364C617.227 364 662 319.451 662 264.5C662 209.548 617.227 165 562.001 165C506.771 165 462 209.548 462 264.5C462 319.451 506.771 364 562.001 364Z"
-          fill="#FEFFFF" stroke="#FEFFFF" stroke-width="15.388" stroke-miterlimit="13"/>
-    <path d="M842.001 364C897.227 364 942 319.227 942 264C942 208.772 897.227 164 842.001 164C786.771 164 742 208.772 742 264C742 319.227 786.771 364 842.001 364Z"
-          stroke="#FEFFFF" stroke-width="13" stroke-miterlimit="13"/>
-    <path d="M392 164V364" stroke="#BE264C" stroke-width="13" stroke-miterlimit="13"/>
-    <path d="M422 134V394" stroke="#FEFFFF" stroke-width="13" stroke-miterlimit="13"/>
-    <path d="M702 134V394" stroke="#FEFFFF" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M542.001 364C597.227 364 642 319.451 642 264.5C642 209.548 597.227 165 542.001 165C486.771 165 442 209.548 442 264.5C442 319.451 486.771 364 542.001 364Z"
+          fill="#F6F8FA" stroke="#F6F8FA" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M822.001 364C877.227 364 922 319.227 922 264C922 208.772 877.227 164 822.001 164C766.771 164 722 208.772 722 264C722 319.227 766.771 364 822.001 364Z"
+          stroke="#F6F8FA" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M362 164V364" stroke="#BE264C" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M402 134V394" stroke="#F6F8FA" stroke-width="13" stroke-miterlimit="13"/>
+    <path d="M682 134V394" stroke="#F6F8FA" stroke-width="13" stroke-miterlimit="13"/>
 </svg>
